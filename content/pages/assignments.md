@@ -8,9 +8,39 @@ One of the assignments for this course is a discussant memo. In their assigned w
 
 A selection of example memos can be found in the table below. All student work is used with permission, courtesy of the authors.
 
-| EXAMPLE DISCUSSION MEMOS |
-| --- |
-| Week 2 ([PDF]({{< baseurl >}}/resources/mit17_586s09_assn02)) |
-| Week 4 ([PDF]({{< baseurl >}}/resources/mit17_586s09_assn04)) |
-| Week 6 ([PDF]({{< baseurl >}}/resources/mit17_586s09_assn06)) |
-| Week 8 ([PDF]({{< baseurl >}}/resources/mit17_586s09_assn08))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+EXAMPLE DISCUSSION MEMOS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 2 ([PDF]({{< baseurl >}}/resources/mit17_586s09_assn02))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 4 ([PDF]({{< baseurl >}}/resources/mit17_586s09_assn04))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 6 ([PDF]({{< baseurl >}}/resources/mit17_586s09_assn06))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 8 ([PDF]({{< baseurl >}}/resources/mit17_586s09_assn08))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
