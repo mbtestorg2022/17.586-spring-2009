@@ -58,7 +58,7 @@ Rich, Paul B., ed. "The Emergence and Significance of Warlordism in Internationa
 
 Chan, Stephen. "The Warlord and the Global Order." Chapter 9 in _Warlords in International Relations_. Edited by Paul B. Rich. New York, NY: Palgrave Macmillan, 1999. ISBN: 9780333775035.
 
-Thomas, Troy S., and Stephen D. Kiser. _Lords of the Silk Route: Violent Non-State Actors in Central Asia_. INSS Occasional Paper #43. Colorado Springs, CO: Institute for National Security Studies, U.S. Air Force Academy, May 2002. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://apps.dtic.mil/dtic/tr/fulltext/u2/a435090.pdf))
+Thomas, Troy S., and Stephen D. Kiser. _Lords of the Silk Route: Violent Non-State Actors in Central Asia_. INSS Occasional Paper #43. Colorado Springs, CO: Institute for National Security Studies, U.S. Air Force Academy, May 2002. ([PDF](https://apps.dtic.mil/dtic/tr/fulltext/u2/a435090.pdf))
 
 Hills, Alice. "[Warlords, Militia and Conflict in Contemporary Africa: A Re-examination of Terms](http://www.informaworld.com/smpp/content~db=all~content=a787278362)." _Small Wars and Insurgencies_ 8, no. 1 (1997): 35-51.
 
@@ -174,9 +174,9 @@ Sandler, Todd. "Collective Action and Transnational Terrorism." _The World Econo
 
 Search for International Terrorist Entities (SITE) Institute. "Suggestion to Join Virtual Terrorist Cell, Rather than Operating Alone." July 20, 2005.
 
-Post, Jerold M., Ehud Sprinzak, and Laurita M. Denny. "The Terrorists in Their Own Words: Interviews with 35 Incarcerated Middle Eastern Terrorists." _Terrorism and Political Violence_ 15, no. 1 (2003): 171-184. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2MB](http://www.pol-psych.com/downloads/Terrorists%20in%20Own%20Words%20Terr%20and%20Pol%20violence.pdf))
+Post, Jerold M., Ehud Sprinzak, and Laurita M. Denny. "The Terrorists in Their Own Words: Interviews with 35 Incarcerated Middle Eastern Terrorists." _Terrorism and Political Violence_ 15, no. 1 (2003): 171-184. ([PDF - 1.2MB](http://www.pol-psych.com/downloads/Terrorists%20in%20Own%20Words%20Terr%20and%20Pol%20violence.pdf))
 
-Paz, Reuven. "Arab Volunteers Killed in Iraq: An Analysis." _The Project for the Research of Islamist Movements, Occasional Papers_ 3, no. 1 (2005). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.e-prism.org/images/PRISM_no_1_vol_3_-_Arabs_killed_in_Iraq.pdf))
+Paz, Reuven. "Arab Volunteers Killed in Iraq: An Analysis." _The Project for the Research of Islamist Movements, Occasional Papers_ 3, no. 1 (2005). ([PDF](http://www.e-prism.org/images/PRISM_no_1_vol_3_-_Arabs_killed_in_Iraq.pdf))
 
 Sageman, Marc. "Mujahideen." Chapter 3 in _Understanding Terror Networks_. Philadelphia, PA: University of Pennsylvania Press, 2004. ISBN: 9780812238082. Also read pp. 137-174.
 
